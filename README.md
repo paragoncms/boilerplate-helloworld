@@ -1,11 +1,11 @@
-paragon-sample-helloworld
-=========================
+paragoncms: boilerplate-helloworld
+=================================
 
-> Paragon CMS Hello World static web site
+> Paragon CMS static site boilerplate.
 
 
 
-# Quickstart
+## Quickstart
 
 Download this repository and wait...
 Edit `site.xml` to configure your site.
