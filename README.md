@@ -1,4 +1,4 @@
-paragoncms: boilerplate-helloworld
+![paragon cms](https://www.paragoncms.io/assets/images/diamond_logo_med.png) boilerplate-helloworld
 =================================
 
 > Paragon CMS static site boilerplate.
@@ -7,5 +7,4 @@ paragoncms: boilerplate-helloworld
 
 ## Quickstart
 
-Download this repository and wait...
-Edit `site.xml` to configure your site.
+Add docs here...
