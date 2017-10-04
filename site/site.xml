@@ -1,0 +1,14 @@
+<!-- Paragon CMS web site map -->
+<site>
+    <name>Sample Hello World</name>
+    <!-- ROBOTS.TXT -->
+    <robots>
+        <user-agent agent="*">
+        </user-agent>
+    </robots>
+    <!-- PAGES -->
+    <page>
+        <url>/</url>
+        <template>index.html</template>
+    </page>
+</site>
