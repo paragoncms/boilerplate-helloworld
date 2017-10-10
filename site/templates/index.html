@@ -1,14 +1,6 @@
-<!DOCTYPE html>
-<html lang="en" class="" manifest="">
-    <head>
-        <meta charset="utf-8" />
-        <title>Hello World Sample</title>
-        <meta name="description" content="This is a sample paragoncms site." />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-    </head>
-    <body>
-        <h1>Hello World, from Paragon CMS.</h1>
-        <hr>
-        <p>This is a sample paragoncms site.</p>        
-    </body>
-</html>
+{% extends "template:base.html" %}
+{% block content %}
+    <section>
+        <img src="{{siteRoot}}/assets/img/helloworld-sfw.jpg" />
+    </section>
+{% endblock %}
