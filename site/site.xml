@@ -1,6 +1,6 @@
 <!-- Paragon CMS web site map -->
 <site>
-    <name>Sample Hello World</name>
+    <name>Hello World Boilerplate</name>
     <!-- ROBOTS.TXT -->
     <robots>
         <user-agent agent="*">
