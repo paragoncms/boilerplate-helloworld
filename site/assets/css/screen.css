@@ -102,9 +102,9 @@ a:hover {
     border-bottom: 1px solid #2a80b9;
     }
 h1 {
-    font-size: 32px;
+    font-size: 28px;
     }
-img {
+section img {
     max-width: 100%;
     width: 100%;
     }
@@ -112,6 +112,11 @@ header img,
 header h1 {
     display: inline-block;
     vertical-align: middle;
+    }
+header img {
+    height: 32px;
+    margin-right: 10px;
+    width: auto;
     }
 footer {
     text-align: center;
