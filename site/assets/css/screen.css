@@ -124,6 +124,8 @@ header a {
     }
 header a:hover {
     border-bottom: 0;
+    }
+header a:hover h1 {
     color: #2a80b9;
     }
 footer {
