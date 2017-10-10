@@ -118,6 +118,14 @@ header img {
     margin-right: 10px;
     width: auto;
     }
+header a {
+    border-bottom: 0;
+    color: #292929;
+    }
+header a:hover {
+    border-bottom: 0;
+    color: #2a80b9;
+    }
 footer {
     text-align: center;
     }
